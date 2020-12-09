@@ -1,0 +1,1190 @@
+<!doctype html>
+<html class="i-ua_js_no i-ua_css_standard" lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Прогноз погоды в Архангельске на 10 дней — Яндекс.Погода</title>
+    <script nonce="1607490245033938-5898650426556042059">;(function(d,e,c,r){e=d.documentElement;c="className";r="replace";e[c]=e[c][r]("i-ua_js_no","i-ua_js_yes");if(d.compatMode!="CSS1Compat")e[c]=e[c][r]("i-ua_css_standart","i-ua_css_quirks")})(document);;(function(d,e,c,n,w,v,f){e=d.documentElement;c="className";n="createElementNS";f="firstChild";w="http://www.w3.org/2000/svg";e[c]+=" i-ua_svg_"+(!!d[n]&&!!d[n](w,"svg").createSVGRect?"yes":"no");v=d.createElement("div");v.innerHTML="<svg/>";e[c]+=" i-ua_inlinesvg_"+((v[f]&&v[f].namespaceURI)==w?"yes":"no");})(document);;(function(d,e,p){e=d.documentElement;p="placeholder";e.className+=" i-ua_"+p+(p in d.createElement("input")?"_yes":"_no")})(document);</script>
+    <link rel="stylesheet" href="//yastatic.net/s3/weather-frontend/11.26.0/desktop.bundles/index/_index.css">
+    <link rel="stylesheet" href="//yastatic.net/s3/weather-frontend/11.26.0/i/print/print.css" media="print">
+    <meta name="viewport" content="width=1000">
+    <meta name="description" content="Подробный прогноз погоды для Архангельска на сегодня, завтра, неделю, 10 дней, месяц на Яндекс.Погоде. Прогноз погоды в Архангельске с точностью до района. ☂ Карта осадков онлайн и другие погодные карты. Температура воздуха и воды, давление и влажность, скорость ветра, магнитное поле и УФ-индекс. ☼ Время восхода и заката солнца. Информация о климате регионов. Прогноз погоды в мобильном приложении.">
+    <meta name="keywords">
+    <meta property="og:title" content="Прогноз погоды в Архангельске на 10 дней — Яндекс.Погода">
+    <meta property="og:description" content="Подробный прогноз погоды для Архангельска на сегодня, завтра, неделю, 10 дней, месяц на Яндекс.Погоде. Прогноз погоды в Архангельске с точностью до района. ☂ Карта осадков онлайн и другие погодные карты. Температура воздуха и воды, давление и влажность, скорость ветра, магнитное поле и УФ-индекс. ☼ Время восхода и заката солнца. Информация о климате регионов. Прогноз погоды в мобильном приложении.">
+    <meta property="og:image" content="/pogoda/static/og_image.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Яндекс.Погода">
+    <link rel="shortcut icon" href="/pogoda/static/favicon.ico">
+    <link rel="mask-icon" href="/pogoda/static/mask-icon.svg" sizes="any" color="#ff0000">
+    <meta name="application-name" content="Яндекс.Погода">
+    <script nonce="1607490245033938-5898650426556042059">try{!function(i,t){function n(){Ya.Rum.vsChanged=!0,document.removeEventListener("visibilitychange",n)}if(i.Ya=i.Ya||{},Ya.Rum)throw new Error("Rum: interface is already defined");var e=i.performance,s=e&&e.timing&&e.timing.navigationStart||Ya.startPageLoad||+new Date,a=i.requestAnimationFrame;Ya.Rum={enabled:!!e,vsStart:document.visibilityState,vsChanged:!1,_defTimes:[],_defRes:[],_deltaMarks:{},_markListeners:{},_settings:{},_vars:{},init:function(i,t){this._settings=i,this._vars=t},getTime:e&&e.now?function(){return e.now()}:Date.now?function(){return Date.now()-s}:function(){return new Date-s},time:function(i){this._deltaMarks[i]=[this.getTime()]},timeEnd:function(i,t){var n=this._deltaMarks,e=n[i];e&&0!==e.length&&e.push(this.getTime(),t)},sendTimeMark:function(i,n,e,s){n===t&&(n=this.getTime()),this._defTimes.push([i,n,s]),this.mark(i,n)},sendResTiming:function(i,t){this._defRes.push([i,t])},sendRaf:function(i){var t=this.getSetting("forcePaintTimeSending");if(a&&(t||!this.isVisibilityChanged())){var n=this,e="2616."+i;a(function(){!t&&n.isVisibilityChanged()||(n.getSetting("sendFirstRaf")&&n.sendTimeMark(e+".205"),a(function(){!t&&n.isVisibilityChanged()||n.sendTimeMark(e+".1928")}))})}},isVisibilityChanged:function(){return this.vsStart&&("visible"!==this.vsStart||this.vsChanged)},mark:e&&e.mark?function(i,t){e.mark(i+(t?": "+t:""))}:function(){},getSetting:function(i){var t=this._settings[i];return null===t?null:t||""},on:function(i,t){"function"==typeof t&&(this._markListeners[i]=this._markListeners[i]||[]).push(t)},sendTrafficData:function(){},finalizeLayoutShiftScore:function(){},finalizeLargestContentfulPaint:function(){}},document.addEventListener&&document.addEventListener("visibilitychange",n)}(window);Ya.Rum.observeDOMNode=window.IntersectionObserver?function(e,i,n){function t(){if(r||!o.isVisibilityChanged()){var s="string"==typeof i?document.querySelector(i):i;s?new IntersectionObserver(function(i,n){!r&&o.isVisibilityChanged()||(Ya.Rum.sendTimeMark(e),n.unobserve(s))},n).observe(s):setTimeout(t,100)}}var o=this,r=Ya.Rum.getSetting("forcePaintTimeSending");t()}:function(){};!function(){if(window.PerformanceLongTaskTiming){var e=300,n=function(n,r){return n=n.concat(r),n.length>e&&(n=n.slice(n.length-e)),n},r=Ya.Rum._tti={events:[],eventsAfterTTI:[],fired:!1,observer:new PerformanceObserver(function(e){var t=e.getEntries();r.events=n(r.events,t),r.fired&&(r.eventsAfterTTI=n(r.eventsAfterTTI,t))})};r.observer.observe({entryTypes:["longtask"]})}}();!function(){function e(){var e=Ya.Rum.getSetting("clck"),n=a.join("\r\n");if(a=[],t=null,e){var i=navigator.sendBeacon&&Ya.Rum.getSetting("beacon"),o=i&&navigator.sendBeacon(e,n);if(!o){var s=new XMLHttpRequest;s.open("POST",e),s.send(n)}}}var t,n=42,i=15,a=[];Ya.Rum.send=function(o,s,g,r,u,m,c){clearTimeout(t);var v=Ya.Rum.getSetting("slots"),l=Ya.Rum.getSetting("experiments"),R=["/reqid="+Ya.Rum.getSetting("reqid"),c?"/"+c.join("/"):"",s?"/path="+s:"",u?"/events="+u:"",v?"/slots="+v.join(";"):"",l?"/experiments="+l.join(";"):"",g?"/vars="+g:"","/cts="+(new Date).getTime(),"/*"];a.push(R.join("")),a.length<n?t=setTimeout(e,i):e()}}();!function(n){if(!n.Ya||!Ya.Rum)throw new Error("Rum: interface is not defined");var e=Ya.Rum;e.getSetting=function(n){var t=e._settings[n];return null===t?null:t||""}}("undefined"!=typeof self?self:window);!function(e,r){function n(e,r){for(var n in r)r.hasOwnProperty(n)&&(e[n]=r[n]);return e}function t(e){var r=[];for(var n in e)e.hasOwnProperty(n)&&(e[n]||0===e[n])&&r.push(n+"="+encodeURIComponent(e[n]).replace(/\*/g,"%2A"));return r.join(",")}function o(e){return"boolean"==typeof e&&(e=+e),"number"==typeof e?e+"":null}function a(){if(e.addEventListener)e.addEventListener("error",x),"Promise"in e&&r._errorSettings.unhandledRejection&&e.addEventListener("unhandledrejection",function(e){var r,n=e.reason,t={};n&&(n.stack&&n.message?r=n.message:(r=String(n),"[object Event]"===r?r="event.type: "+n.type:"[object Object]"===r&&(t.unhandledObject=n)),n.target&&n.target.src&&(t.src=n.target.src),x({message:"Unhandled rejection: "+r,stack:n.stack,additional:t}))});else{var n=e.onerror;e.onerror=function(e,r,t,o,a){x({error:a||new Error(e||"Empty error"),message:e,lineno:t,colno:o,filename:r}),n&&n.apply(this,arguments)}}}var i="690.2354",s="690.2361",l="690.2854",c="690.2609",u=-1,d=100,f=100,m=100,p=100,g=10,v=10,E=10,h={client:[i,u,p,0],uncaught:[s,d,g,0],external:[l,f,v,0],script:[c,m,E,0]},y={};r.ERROR_LEVEL={INFO:"info",DEBUG:"debug",WARN:"warn",ERROR:"error",FATAL:"fatal"},r._errorSettings={clck:"https://yandex.ru/clck/click",beacon:!0,project:"unknown",page:"",env:"",experiments:[],additional:{},platform:"",region:"",dc:"",level:"",version:"",yandexuid:"",referrer:"",preventError:!1,unhandledRejection:!1,uncaughtException:!0,debug:!1,limits:{},silent:{},filters:{}};var b=!1;r.initErrors=function(e){n(r._errorSettings,e),!b&&r._errorSettings.uncaughtException&&(a(),b=!0)},r.updateErrors=function(e){n(r._errorSettings,e)},r._handleError=function(t,o){var a=r._errorSettings;a.preventError&&t.preventDefault&&t.preventDefault();var i,s;if(o)i=t,s="client";else{i=r._normalizeError(t),s=i.type;var l=a.onError;"function"==typeof l&&l(i);var c=a.transform;"function"==typeof c&&(i=c(i))}var u=h[s][1];"number"==typeof a.limits[s]&&(u=a.limits[s]);var d=h[s][2];"number"==typeof a.silent[s]&&(d=a.silent[s]);var f=h[s][3];if(f<u||u===-1){i.path=h[s][0];var m="";try{var p=n({},a.additional);m=JSON.stringify(n(p,i.additional))}catch(r){a.debug&&e.console&&console.error("[error-counter] json.stringify:",r)}var g=function(){y[i.message]=!1,r._sendError(i,{additional:m,silent:f<d||d===-1?"no":"yes",isCustom:Boolean(o)}),h[s][3]++}.bind(this);if("undefined"==typeof a.throttleSend)g();else{if(y[i.message])return;y[i.message]=!0,setTimeout(g,a.throttleSend)}}},r._baseNormalizeError=function(e){e=e||{};var r=e.filename||e.fileName||"",n=e.error&&e.error.stack||e.stack||"",t=e.message||"";return{file:r,line:e.lineno||e.lineNumber,col:e.colno||e.colNumber,stack:n,message:t,additional:e.additional}},r._normalizeError=function(e){var n=r._baseNormalizeError(e),t="uncaught",o=r._isExternalError(n.file,n.message,n.stack),a="",i="";return o.hasExternal?(t="external",a=o.common,i=o.custom):/^Script error\.?$/.test(n.message)&&(t="script"),n.external=a,n.externalCustom=i,n.type=t,n},r._sendError=function(n,a){a=a||{};var i=r._errorSettings,s=i.experiments.length?i.experiments.join(";"):"",l={"-url":n.file,"-line":n.line,"-col":n.col,"-stack":n.stack,"-env":i.env,"-msg":n.message,"-external":n.external,"-externalCustom":n.externalCustom,"-project":i.project,"-service":n.service,"-page":n.page||i.page,"-platform":i.platform,"-level":n.level,"-experiments":s,"-version":i.version,"-region":i.region,"-dc":i.dc,"-yandexuid":i.yandexuid,"-referrer":i.referrer,"-source":n.source,"-sourceMethod":n.sourceMethod,"-type":a.isCustom?n.type:"","-block":n.block,"-method":n.method,"-additional":a.additional,"-adb":o(Ya.blocker)||o(i.blocker),"-cdn":e.YaStaticRegion,"-ua":navigator.userAgent,"-silent":a.silent,"-ts":+new Date};i.debug&&e.console&&console.error("[error-counter]",l),r.send(null,n.path,t(l),null,null,null,null)};var x=function(e){r._handleError(e,!1)}}("undefined"!=typeof self?self:window,Ya.Rum);!function(e){function r(r,n,t){var s=e._errorSettings.filters||{},a={url:(r||"")+"",message:(n||"")+"",stack:(t||"")+""},c=o(a,i),u=o(a,s);return{common:c,custom:u,hasExternal:!(!c&&!u)}}function n(e,r){if(e&&r){var n=[];for(var o in r)if(r.hasOwnProperty(o)){var i=r[o];"string"==typeof i&&(i=new RegExp(i)),i instanceof RegExp&&i.test(e)&&n.push(o)}return n.join("_")}}function o(e,r){var o,t=[];for(var s in i)i.hasOwnProperty(s)&&(o=n(e[s],r[s]),o&&t.push(s+"~"+o));return t.join(";")}var i={url:{0:/(miscellaneous|extension)_bindings/,1:/^chrome:/,2:/kaspersky-labs\.com\//,3:/^(?:moz|chrome)-extension:\/\//,4:/^file:/,5:/^resource:\/\//,6:/webnetc\.top/,7:/local\.adguard\.com/},message:{0:/__adgRemoveDirect/,1:/Content Security Policy/,2:/vid_mate_check/,3:/ucapi/,4:/Access is denied/i,5:/^Uncaught SecurityError/i,6:/__ybro/,7:/__show__deepen/,8:/ntp is not defined/,9:/Cannot set property 'install' of undefined/,10:/NS_ERROR/,11:/Error loading script/,12:/^TypeError: undefined is not a function$/,13:/__firefox__\.(?:favicons|metadata|reader|searchQueryForField|searchLoginField)/},stack:{0:/(?:moz|chrome)-extension:\/\//,1:/adguard.*\.user\.js/i}};e._isExternalError=r}(Ya.Rum);!function(){"use strict";!function(e){e.logError=function(r,o){r=r||{},"string"!=typeof o&&"undefined"!=typeof o||(o=new Error(o),o.justCreated=!0);var s=r.message||"",t=e._baseNormalizeError(o);t.message&&(s&&(s+="; "),s+=t.message),t.message=s||"Empty error";for(var a=["service","source","type","block","additional","level","page","method","sourceMethod"],n=0;n<a.length;n++){var i=a[n];r[i]?t[i]=r[i]:o&&o[i]&&(t[i]=o[i])}e._handleError(t,!0)}}(Ya.Rum)}();(function(){Ya.Rum.init({beacon:!!navigator.sendBeacon,clck:"https://yandex.ru/clck/click",slots:["255025","255497","298378","221205","304477","307038","135686","258984","186872","299067","299102"],reqid:'1607490245033938-5898650426556042059',sendClientUa:true,sendBeforeBemInited:true,},{"region": "38","rum_id": "28.663.2942.629","-blocker": 0,"-project": "weather","-page": "index","-version": "11.26.0","-platform": "desktop"});Ya.Rum.observeDOMNode('2876','.fact');Ya.Rum.initErrors({"project":"weather","page":"index","env":"production","platform":"desktop","version":"11.26.0","region":38,"yandexuid":"1975639161607490245","blocker":false,"debug":false,"additional":{"rawEnv":"cloud","locale":"ru_RU"},"limits":{"client":10,"uncaught":100,"script":0,"external":10},"filters":{"message":{"0":"Uncaught TypeError: document.querySelectorAll\\(...\\)\\[Symbol.iterator\\] is not a function","1":"Uncaught ReferenceError: MutationObserver is not defined","2":"\"MutationObserver\" не определено","3":"Uncaught TypeError: Cannot assign to read only property"},"stack":{"0":"^$"}},"throttleSend":0});})()}catch(e){};var el = document.createElement("span");el.classList.add("check-static");document.addEventListener("DOMContentLoaded", function () {document.body.appendChild(el);var backgroundColor = getComputedStyle(el, null).backgroundColor;if (backgroundColor !== "rgb(255, 255, 255)") {Ya.Rum.logError({message: "Css bundle does not loaded",page: "index",level: Ya.Rum.ERROR_LEVEL.FATAL,additional: { backgroundColor: backgroundColor }})}}, false);</script>
+    <link rel="alternate" href="https://yandex.ru/pogoda/20" hreflang="ru">
+    <link rel="alternate" href="https://yandex.ua/pogoda/20?lang=ru" hreflang="ru-UA">
+    <link rel="alternate" href="https://yandex.ua/pogoda/20" hreflang="uk">
+    <link rel="alternate" href="https://yandex.by/pogoda/20" hreflang="be">
+    <link rel="alternate" href="https://yandex.kz/pogoda/20" hreflang="kk">
+    <link rel="alternate" href="https://yandex.uz/pogoda/20" hreflang="uz">
+    <link rel="alternate" href="https://yandex.com/weather/20" hreflang="en">
+    <link rel="alternate" href="https://yandex.pl/weather/20" hreflang="pl">
+    <link rel="alternate" href="https://yandex.com.tr/hava/20" hreflang="tr">
+    <link rel="canonical" href="//yandex.ru/pogoda/arhangelsk">
+    <link rel="preload" href="//an.yandex.ru/system/context.js" as="script">
+</head>
+<body class="b-page b-page_type_index b-page_align_center i-metrika detect-scripts i-yp_szm-cookie adblock-detector b-page__body i-ua i-global i-bem" data-bem="{&quot;b-page&quot;:{&quot;ariaLabelMainLogoText&quot;:&quot;Перейти на главную Яндекс&quot;,&quot;ariaLabelServiceLogoText&quot;:&quot;Перейти на главную Яндекс.Погода&quot;,&quot;ariaLabelYaPlusText&quot;:&quot;Перейти на Яндекс Плюс&quot;,&quot;ariaLabelNotifierText&quot;:&quot;Уведомления. Новых уведомлений: %count&quot;,&quot;ariaLabelUserText&quot;:&quot;Ваш профиль. Новых писем: %count&quot;},&quot;detect-scripts&quot;:{},&quot;i-yp_szm-cookie&quot;:{&quot;url&quot;:&quot;https://yandex.ru/portal/set/my/&quot;},&quot;adblock-detector&quot;:{&quot;param&quot;:&quot;zmFQeXtI&quot;},&quot;i-ua&quot;:{},&quot;i-global&quot;:{&quot;lang&quot;:&quot;ru&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;content-region&quot;:&quot;ru&quot;,&quot;click-host&quot;:&quot;//clck.yandex.ru&quot;,&quot;passport-host&quot;:&quot;https://passport.yandex.ru&quot;,&quot;pass-host&quot;:&quot;https://pass.yandex.ru&quot;,&quot;social-host&quot;:&quot;https://social.yandex.ru&quot;,&quot;export-host&quot;:&quot;https://export.yandex.ru&quot;,&quot;id&quot;:&quot;weather&quot;,&quot;host&quot;:&quot;https://yandex.ru&quot;,&quot;kubr&quot;:true,&quot;user-region&quot;:&quot;ru&quot;,&quot;secret-key&quot;:&quot;yb064a4f053f9b25539e4ea9a6ba424f0&quot;,&quot;service-root&quot;:&quot;/pogoda&quot;,&quot;retpath&quot;:&quot;https://yandex.ru/pogoda/20&quot;,&quot;nonce&quot;:&quot;1607490245033938-5898650426556042059&quot;,&quot;yandexuid&quot;:&quot;1975639161607490245&quot;,&quot;rid&quot;:20,&quot;urid&quot;:38,&quot;slug&quot;:&quot;arhangelsk&quot;,&quot;metrikaId&quot;:115080,&quot;stHost&quot;:&quot;//yastatic.net/s3/weather-frontend/11.26.0&quot;,&quot;map-version&quot;:&quot;2.1.75&quot;,&quot;detect-host&quot;:&quot;csp.yandex.net&quot;,&quot;detect-domains&quot;:[&quot;report-sample&quot;,&quot;yandex.ru&quot;,&quot;www.yandex.ru&quot;,&quot;yandex.ru&quot;,&quot;www.yandex.ru&quot;,&quot;cloud-api.yandex.ru&quot;,&quot;an.yandex.ru&quot;,&quot;awaps.yandex.ru&quot;,&quot;export.yandex.ru&quot;,&quot;mc.yandex.ru&quot;,&quot;mc.yandex.ru&quot;,&quot;pass.yandex.ru&quot;,&quot;social.yandex.ru&quot;,&quot;api-maps.yandex.ru&quot;,&quot;ads.adfox.ru&quot;,&quot;adfox.yandex.ru&quot;,&quot;adfox.yandex.ru&quot;,&quot;*.adfox.yandex.ru&quot;,&quot;*.adfox.yandex.ru&quot;,&quot;suggest-maps.yandex.ru&quot;,&quot;yastatic.net&quot;,&quot;yandex.st&quot;,&quot;ads6.adfox.ru&quot;,&quot;banners.adfox.ru&quot;,&quot;1.yastat.net&quot;,&quot;s3.mds.yandex.net&quot;,&quot;yastat.net&quot;,&quot;yastatic.net&quot;],&quot;reqId&quot;:&quot;1607490245033938-5898650426556042059&quot;,&quot;rumAdvPosNames&quot;:{&quot;404&quot;:3195,&quot;touch&quot;:584,&quot;index&quot;:629,&quot;top&quot;:77,&quot;side&quot;:507,&quot;bottom&quot;:668,&quot;wide&quot;:3521,&quot;narrow&quot;:3522,&quot;month&quot;:797,&quot;extra&quot;:1800,&quot;compare&quot;:2203,&quot;details&quot;:1362,&quot;map&quot;:367,&quot;nowcast&quot;:2943,&quot;high&quot;:3523,&quot;middle&quot;:2028,&quot;small&quot;:150,&quot;temperature&quot;:285,&quot;wind&quot;:3067,&quot;pressure&quot;:3068,&quot;pollen&quot;:3026,&quot;additional&quot;:3524,&quot;up&quot;:600,&quot;down&quot;:601,&quot;below&quot;:3757,&quot;event&quot;:32,&quot;sticky&quot;:1578,&quot;first&quot;:205,&quot;second&quot;:3951,&quot;third&quot;:3952},&quot;unit&quot;:{&quot;temp&quot;:&quot;C&quot;,&quot;pressure&quot;:&quot;mm&quot;,&quot;wind&quot;:&quot;mps&quot;},&quot;is-region-user-choice&quot;:false,&quot;gdpr&quot;:{&quot;levels&quot;:{&quot;tech&quot;:[0,1,2,3],&quot;analytics&quot;:[0,2],&quot;other&quot;:[0,3]}}}}">
+    <style nonce="">.yandex-header{position:relative;z-index:20;padding:0 20px;font-family:'YS Text',arial,sans-serif;background:#fff}.yandex-header__content{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;max-width:1400px;height:60px;margin:auto;background:#fff}.yandex-header .favorites-icon,.yandex-header .notifier,.yandex-header .yaplus,.yandex-header__extra,.yandex-header__nav{-webkit-transition:opacity .2s ease;transition:opacity .2s ease}.yandex-header_suggest-opened .favorites-icon,.yandex-header_suggest-opened .notifier,.yandex-header_suggest-opened .yandex-header__extra,.yandex-header_suggest-opened .yandex-header__nav,.yandex-header_suggest-opened .yaplus{opacity:0}.yandex-header__content{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0 24px}.yandex-header .link{text-decoration:none;outline:0;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer}.yandex-header .utilityfocus .link:focus{outline:2px solid #fc0}.yandex-header .link[aria-disabled=true]{pointer-events:none;color:#ddd;cursor:default}.yandex-header .link__icon{-webkit-transition:opacity .15s ease-out;transition:opacity .15s ease-out}.yandex-header .link[aria-disabled=true]:hover{color:#ddd}.yandex-header .login-button{position:relative;display:inline-block;vertical-align:top;white-space:nowrap;text-decoration:none}.yandex-header .login-button__text{white-space:nowrap}.yandex-header .link__inner{color:inherit}.yandex-header_theme_default .yandex-header__nav .yandex-header__nav-link,.yandex-header_theme_default .yandex-header__nav .yandex-header__nav-link:visited{color:#222426}.yandex-header_theme_default .yandex-header__nav .yandex-header__nav-link:active,.yandex-header_theme_default .yandex-header__nav .yandex-header__nav-link:focus,.yandex-header_theme_default .yandex-header__nav .yandex-header__nav-link:hover,.yandex-header_theme_default .yandex-header__nav .yandex-header__nav-link_active_yes[class],.yandex-header_theme_default .yandex-header__nav .yandex-header__nav-link_active_yes[class]:visited{color:#d00}.yandex-header_theme_default .yandex-header__input{background-color:rgba(147,156,176,.15)}.yandex-header_theme_default .yandex-header__input::-webkit-input-placeholder{color:#939cb0}.yandex-header_theme_default .yandex-header__input:-moz-placeholder,.yandex-header_theme_default .yandex-header__input::-moz-placeholder{color:#939cb0}.yandex-header_theme_default .yandex-header__input:focus{border:2px solid #fdde55;background-color:#fff}.yandex-header_theme_default .yandex-header__search-icon svg{fill:#939cb0}.yandex-header_theme_default .yandex-header__search-icon:focus svg,.yandex-header_theme_default .yandex-header__search-icon:hover svg{fill:#4b4c5a}.yandex-header_theme_default .yandex-header__extra .yandex-header__extra-link:hover{color:#222426}.yandex-header__logo{-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;margin-right:29px;white-space:nowrap}.yandex-header__logo-base,.yandex-header__logo-service{display:inline-block;vertical-align:top;outline:0}.yandex-header__logo-base{height:32px;background-repeat:no-repeat;background-position:center center;background-size:contain}.yandex-header__logo-base,.yandex-header__logo-base_lang_be,.yandex-header__logo-base_lang_kk,.yandex-header__logo-base_lang_ru,.yandex-header__logo-base_lang_uk{width:67px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3JnAXF2i.svg)}.yandex-header__logo-base_lang_en,.yandex-header__logo-base_lang_tr,.yandex-header__logo-base_lang_uz{width:70px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/WtfUECxw.svg)}@media screen and (max-width:1279px){.yandex-header_collapse .yandex-header__logo{margin-right:17px}.yandex-header_collapse .yandex-header__logo-base,.yandex-header_collapse .yandex-header__logo-base_lang_be,.yandex-header_collapse .yandex-header__logo-base_lang_kk,.yandex-header_collapse .yandex-header__logo-base_lang_ru,.yandex-header_collapse .yandex-header__logo-base_lang_uk{width:32px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/4q4dB7hv.svg)}.yandex-header_collapse .yandex-header__logo-base_lang_en,.yandex-header_collapse .yandex-header__logo-base_lang_tr,.yandex-header_collapse .yandex-header__logo-base_lang_uz{width:32px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3SxqVAHF.svg)}}@media screen and (max-width:1024px){.yandex-header__logo[class]{margin-right:20px}}.yandex-header__logo-service{height:32px;background-repeat:no-repeat;background-position:center center;background-size:contain}.yandex-header__logo-service,.yandex-header__logo-service_lang_ru,.yandex-header__logo-service_lang_uk{width:76px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/2KkzGoNt.svg)}.yandex-header__logo-service_lang_en{width:85px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/et8DGxhN.svg)}.yandex-header__logo-service_lang_uz{width:85px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3fdbXTQZ.svg)}.yandex-header__logo-service_lang_kk{width:97px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/48z15E4G.svg)}.yandex-header__logo-service_lang_tr{width:133px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/5nQWWvMA.svg)}.yandex-header__logo-service_lang_be{width:95px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/24cRX8yJ.svg)}@media screen and (max-width:1279px){.yandex-header__logo-service[class],.yandex-header__logo-service_lang_ru[class],.yandex-header__logo-service_lang_uk[class]{width:63px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3fFrxah3.svg)}.yandex-header__logo-service_lang_uz[class]{width:71px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3xQoWsDa.svg)}.yandex-header__logo-service_lang_kk[class]{width:81px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/4rxtNR4F.svg)}.yandex-header__logo-service_lang_tr[class]{width:110px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/4pHVNnsg.svg)}.yandex-header__logo-service_lang_be[class]{width:79px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/4c8bWAet.svg)}.yandex-header__logo-service_lang_en[class]{width:71px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/4vrS7uGs.svg)}}.yandex-header__nav{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0}@media screen and (max-width:1279px){.yandex-header__nav .yandex-header__nav-link:not([data-s-text='']) span{display:none}.yandex-header__nav .yandex-header__nav-link::before{display:block}}@media screen and (max-width:1023px){.yandex-header_wrap-nav{padding-bottom:34px}.yandex-header_wrap-nav .yandex-header__nav{position:absolute;top:52px;left:20px}}.yandex-header__nav-link{display:inline-block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:8px 2px;font-size:16px;font-weight:500;line-height:21px;white-space:nowrap;border:2px solid transparent;-webkit-transition:.1s;transition:.1s}.yandex-header__nav-link,.yandex-header__nav-link:visited{text-decoration:none;color:#939cb0;fill:#939cb0}.yandex-header__nav-link:active,.yandex-header__nav-link:hover{color:#222426;outline:0;fill:#222426}.yandex-header__nav-link+.yandex-header__nav-link{margin-left:12px}.yandex-header__nav-link:focus{color:#222426;outline:0;fill:#222426}.yandex-header__nav-link::before{display:none;content:attr(data-s-text)}@media screen and (max-width:1279px){.yandex-header__nav-link+.yandex-header__nav-link{margin-left:8px}}.yandex-header__search{width:100%;min-width:220px;max-width:470px;margin-left:29px}.yandex-header__search form{margin:0}.yandex-header__input{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;width:100%;height:36px;padding-right:64px;padding-left:12px;font-size:16px;color:#222426;border:2px solid transparent;border-radius:6px;outline:0}.yandex-header__search-icon{position:absolute;top:0;bottom:0;display:inline-block;width:36px;height:36px;margin:auto;padding:0;cursor:pointer;border:0;outline:0;background-color:transparent}.yandex-header__search-icon svg{position:absolute;top:0;right:0;bottom:0;left:0;margin:auto}.yandex-header__submit svg{width:20px;height:20px}.yandex-header__submit{right:4px;display:inline-block}.yandex-header__clear{right:40px;display:none}.yandex-header__search_show-clear_yes .yandex-header__clear{display:inline-block}@media screen and (max-width:1279px){.yandex-header__search{margin-left:20px}}@media screen and (max-width:1024px){.yandex-header__search{margin-left:20px}}@media (min-width:1024px){.yandex-header__nav-icon{display:inline-block;margin-right:8px;vertical-align:baseline;background-repeat:no-repeat;background-position:center center;background-size:contain}.yandex-header__nav-icon_type_all{display:inline-block!important;width:20px;height:20px}.yandex-header__nav-icon_type_all svg{padding:2px 0 0 2px}.yandex-header__nav-icon_type_sport{width:21px;height:19px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/291umYDY.svg)}.yandex-header__nav-icon_type_mirror{width:20px;height:20px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3LygTh3E.svg)}.yandex-header__nav-icon_type_weather{width:20px;height:20px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3RD2tCrH.svg)}.yandex-header__nav-icon_type_news{width:20px;height:20px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/ZpXVHhjD.svg)}}.yandex-header__search{position:relative}.yandex-header__extra,.yandex-header__extra-link{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.yandex-header__extra-link{-webkit-transition:.1s;transition:.1s}.yandex-header__extra{-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;padding-left:24px}.yandex-header__logo+.yandex-header__extra{margin-left:3px}.yandex-header__extra .yandex-header__nav-link,.yandex-header__extra .yandex-header__nav-link:visited{text-decoration:none;color:#939cb0}@media screen and (max-width:1279px){.yandex-header_collapse-extra .yandex-header__extra-link:not(.yandex-header__extra-link_type_all),.yandex-header_collapse-extra .yandex-header__extra-link_type_all .yandex-header__nav-text{display:none}.yandex-header_collapse-extra .yandex-header__extra-link_type_all::after{content:attr(data-s-text)}}@media screen and (max-width:1024px){.yandex-header__extra{padding-left:12px}}@media (min-width:1024px){.yandex-header__nav-icon_type_all{width:20px;height:20px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/4dUw9Din.svg)}}.yandex-header__actions{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;margin-left:auto;padding-left:24px;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0}.yandex-header__actions .user-account .user-account__pic,.yandex-header__actions .user-account .user-pic__image{width:42px;height:42px}.yandex-header__actions .legouser,.yandex-header__actions .signup-link,.yandex-header__actions .user2{margin-left:12px}.yandex-header__actions .legouser__current-account .user-account__name,.yandex-header__actions .user2__current-account .user-account__name{display:none}.yandex-header .login-button{height:36px;padding:0 16px;line-height:36px}.yandex-header .login-button_pic_yes svg{margin-top:8px;vertical-align:top}.yandex-header .login-button__text{margin-left:6px}.yandex-header .signup-link{position:relative;display:inline-block;height:40px;margin-right:16px;padding:0;font:16px/40px 'YS Text',arial,sans-serif;vertical-align:top;white-space:nowrap;text-decoration:none;color:#222426}.yandex-header .signup-link:focus{color:#d00;outline:0}.yandex-header__services-icon{width:40px;height:44px;opacity:.3;background:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/2HTKebBu.svg) center 9px no-repeat}.yandex-header__services-icon:hover{opacity:1}.yandex-header__nav-icon_type_all{display:none}</style>
+    <header class="yandex-header yandex-header_collapse yandex-header_auth_no header yandex-header_theme_default">
+        <div class="yandex-header__content">
+            <div class="yandex-header__logo">
+                <a class="yandex-header__logo-base yandex-header__logo-base_lang_ru" href="//yandex.ru" tabindex="-1"></a><a class="yandex-header__logo-service yandex-header__logo-service_lang_ru" href="/pogoda?via=hl" tabindex="-1"></a>
+            </div>
+            <div class="yandex-header__nav yandex-header__item">
+                <a class="yandex-header__nav-link yandex-header__nav-link_active_yes " rel="noopener" href="/pogoda/arhangelsk?via=hnav" data-s-text="На 10 дней" data-tab-id=""><span>Прогноз на 10 дней</span></a><a class="yandex-header__nav-link yandex-header__nav-link_active_no " rel="noopener" href="/pogoda/arhangelsk/month/?via=hnav" data-s-text="На месяц" data-tab-id=""><span>Прогноз на месяц</span></a><a class="yandex-header__nav-link yandex-header__nav-link_active_no " rel="noopener" href="/pogoda/arhangelsk/maps/nowcast?via=hnav" data-s-text="На карте" data-tab-id=""><span>Погода на карте</span></a>
+            </div>
+            <form class="search2 search2_template_service suggest2-form suggest2-form__node suggest2-counter i-bem" role="search" action="/pogoda/search" aria-label="Город или район" data-bem="{&quot;suggest2-form&quot;:{&quot;popupName&quot;:&quot;popup2&quot;},&quot;suggest2-counter&quot;:{&quot;submitBySelect&quot;:true,&quot;suggestReqID&quot;:true,&quot;service&quot;:&quot;weather_ru_desktop&quot;,&quot;dataUrl&quot;:&quot;https://yandex.ru/pogoda/20&quot;,&quot;params&quot;:{&quot;dtype&quot;:&quot;stred&quot;,&quot;pid&quot;:0,&quot;cid&quot;:2873},&quot;preventSubmit&quot;:false}}">
+                <span class="input input_size_m input_type_normal input_focus_thin input_after-nameplate_yes input_theme_normal suggest2-form__input i-bem" data-bem="{&quot;input&quot;:{&quot;live&quot;:false}}"><label class="input__hint input__hint_visibility_visible" id="hintuniq16074204171696694" for="uniq16074204171696694" aria-hidden="true">Город или район</label><span class="input__box"><span class="input__clear" unselectable="on">&nbsp;</span><input class="input__control" id="header2input" name="request" placeholder="Город или район" aria-labelledby="labeluniq16074204171696694 hintuniq16074204171696694" aria-owns="search-results" accesskey="s" value=""></span></span><button class="suggest2__button a11y-hidden" type="submit">Найти</button>
+                <div class="suggest2-popup suggest2-popup_for_popup2"></div>
+                <div class="popup2 popup2_target_anchor popup2_autoclosable_yes popup2_theme_normal popup2_view_classic popup2_hiding_yes suggest2 suggest2_theme_large suggest2_adaptive_yes suggest2_group_type suggest2_nameplate_ru suggest2_align_center suggest2_with-header i-bem" data-bem="{&quot;popup2&quot;:{},&quot;suggest2&quot;:{&quot;url&quot;:&quot;//suggest-maps.yandex.ru/suggest-geo&quot;,&quot;excludeKindsCompare&quot;:[&quot;district&quot;,&quot;metro&quot;,&quot;house&quot;,&quot;vegetation&quot;,&quot;station&quot;,&quot;locality&quot;,&quot;geobase_province&quot;,&quot;geobase_country&quot;],&quot;disableNavigation&quot;:false,&quot;customRegionsCenter&quot;:{&quot;225&quot;:{&quot;lat&quot;:56.850573,&quot;lon&quot;:53.202836},&quot;245&quot;:{&quot;lat&quot;:-77.88,&quot;spn_lat&quot;:14,&quot;lon&quot;:73,&quot;spn_lon&quot;:120}},&quot;goToLocationOnSuggest&quot;:true,&quot;customLeftIndent&quot;:true,&quot;data&quot;:{&quot;v&quot;:8,&quot;lang&quot;:&quot;ru_RU&quot;,&quot;search_type&quot;:&quot;weather_v2&quot;,&quot;n&quot;:10,&quot;ll&quot;:&quot;44.51693,48.707073&quot;,&quot;spn&quot;:&quot;0.5,0.5&quot;}}}">
+                    <div class="popup2__content"></div>
+                </div>
+            </form>
+            <div class="yandex-header__actions">
+                <style nonce="">.yaplus{position:relative;z-index:0;display:inline-block;clear:both;white-space:nowrap}.yaplus__badge-main{display:inline-block;vertical-align:top;background-repeat:no-repeat;width:55px;height:20px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/MNSkGgdn.svg)}.yaplus:hover .yaplus__badge-main{opacity:.8}@supports ((-webkit-filter:brightness(90%)) or (filter:brightness(90%))){.yaplus:hover .yaplus__badge-main{opacity:1;-webkit-filter:brightness(90%);filter:brightness(90%)}}.yaplus_hidden_yes{display:none}.yaplus .yaplus__link .link__inner{color:#333}.yaplus{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;height:40px;padding-top:8px}.yaplus:not(.yaplus_old-icon){width:46px}.yaplus:not(.yaplus_old-icon) .yaplus__badge-main{width:100%;height:24px;background:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3KEczNxk.svg) center center no-repeat}.yaplus:not(.yaplus_text) .link__inner{display:none}.yaplus .serp-header .yaplus{margin-right:16px;padding-top:11px;vertical-align:top}.yaplus .serp-header .yaplus_available_yes{padding-top:10px}.yaplus .serp-header .yaplus_available_yes~.notifier{margin-right:21px}.yaplus .serp-header .yaplus{font-family:Arial,Helvetica,sans-serif}.yaplus .link{text-decoration:none;outline:0;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer}.yaplus .utilityfocus .link:focus{outline:2px solid #fc0}.yaplus .link[aria-disabled=true]{pointer-events:none;color:#ddd;cursor:default}.yaplus .link__icon{-webkit-transition:opacity .15s ease-out;transition:opacity .15s ease-out}.yaplus .link[aria-disabled=true]:hover{color:#ddd}.yaplus_available_yes .yaplus__badge-main{width:22px;height:22px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3bqmLj26.svg)}.yaplus_available_yes .yaplus__link.link{height:22px;line-height:21px}.yaplus .link_theme_normal:hover,.yaplus_available_yes:hover .yaplus__link .link__inner{color:#c00}.yaplus__link.link{display:block;overflow:hidden;height:20px;text-align:right;line-height:20px}.yaplus__link .link__inner{padding-right:8px;vertical-align:top;white-space:nowrap;font-family:Arial;font-size:15px;color:#333}@media screen and (max-width:930px){.yaplus__link .link__inner{display:none}}.yaplus .link__inner{color:inherit}.yaplus .link_theme_normal{color:#04b}</style>
+                <div class="yaplus yaplus_available_yes i-bem" data-bem="{&quot;yaplus&quot;:{}}">
+                    <a class="link link_theme_normal yaplus__link i-bem" data-bem="{&quot;link&quot;:{}}" rel="noopener" target="_blank" tabindex="0" href="https://plus.yandex.ru?from=header_weather&amp;utm_campaign=plus&amp;utm_medium=header_weather&amp;utm_source=yandex&amp;source=header_weather"><span class="link__inner">Будьте в Плюсе</span><span class="yaplus__badge-main"></span></a>
+                </div>
+                <style nonce="">.signup-link{position:relative;display:inline-block;height:40px;margin-right:16px;padding:0;font:16px/40px 'YS Text',arial,sans-serif;vertical-align:top;white-space:nowrap;text-decoration:none;color:#222426}.signup-link:focus{color:#d00;outline:0}</style><a class="signup-link" href="https://passport.yandex.ru/registration?retpath=https%3A%2F%2Fyandex.ru%2Fpogoda%2F20&amp;origin=weather_header"><span class="signup-link__text">Регистрация</span></a>
+                <style nonce="">.login-button{position:relative;display:inline-block;vertical-align:top;text-decoration:none}.login-button,.login-button__text{white-space:nowrap}.login-button_theme_action{padding:0 13px;font:16px/32px 'YS Text',arial,sans-serif;color:#222426;border-radius:6px;background:#ffdc60}.login-button_theme_action:active{background:#f7c408}.login-button_theme_action:focus{outline:0;-webkit-box-shadow:inset 0 0 0 2px rgba(147,156,176,.3);box-shadow:inset 0 0 0 2px rgba(147,156,176,.3)}.login-button{height:36px;padding:0 16px;line-height:36px}.login-button_pic_yes svg{margin-top:8px;vertical-align:top}.login-button__text{margin-left:6px}</style><a class="login-button login-button_theme_action login-button_pic_yes" href="https://passport.yandex.ru/auth?retpath=https%3A%2F%2Fyandex.ru%2Fpogoda%2F20&amp;origin=weather_header" target="_parent">
+                <svg width="16" height="20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.75 5.219c0 2.663-1.608 4.948-3.75 4.948-2.144 0-3.75-2.285-3.75-4.948C4.25 2.556 5.631 1 8 1c2.366 0 3.75 1.556 3.75 4.219zm-10.332 10.9c.32.381 1.702 1.548 6.581 1.548 4.88 0 6.26-1.167 6.582-1.548a.346.346 0 0 0 .076-.264c-.075-.735-.737-4.022-6.658-4.022-5.92 0-6.583 3.287-6.657 4.022-.01.097.013.19.076.264z" fill="#000" />
+                </svg><span class="login-button__text">Войти</span></a>
+            </div>
+        </div>
+    </header>
+    <script src="//yastatic.net/s3/frontend/yandex-lego/serp-header/_/35tS2p9V.js" type="text/javascript"></script>
+    <script src="//yastatic.net/s3/frontend/yandex-lego/serp-header/_/2rxQh59p.js" type="text/javascript"></script>
+    <div class="b-page__container" role="main">
+        <div class="i-config i-bem" data-bem="{&quot;i-config&quot;:{&quot;params&quot;:{&quot;compare&quot;:{&quot;limit&quot;:8,&quot;cookie-name&quot;:&quot;yw_cmpr&quot;,&quot;cookie-expires-days&quot;:365}}}}"></div>
+        <div class="webgl-checker i-bem" style="display:none" hidden data-bem="{&quot;webgl-checker&quot;:{}}"></div>
+        <div class="climate-header-fixed i-bem" data-bem="{&quot;climate-header-fixed&quot;:{&quot;sources&quot;:[{&quot;source&quot;:&quot;.compare-notice&quot;,&quot;dest&quot;:{&quot;elem&quot;:&quot;notice&quot;,&quot;block&quot;:&quot;climate-header-fixed&quot;,&quot;elemMods&quot;:{},&quot;mods&quot;:{}},&quot;destOutsideWrapper&quot;:true,&quot;shownClass&quot;:&quot;compare-notice-sticky&quot;,&quot;wrapper&quot;:&quot;.compare-notice-wrapper&quot;}],&quot;trackVisibilityElemSelector&quot;:&quot;.header2&quot;,&quot;isContentAlignCenter&quot;:&quot;center&quot;}}">
+            <div class="climate-header-fixed__wrapper"></div>
+            <div class="climate-header-fixed__notice"></div>
+        </div>
+        <div class="compare-notice-wrapper">
+            <div class="compare-notice compare-notice_align_center i-bem" aria-hidden="true" data-bem="{&quot;compare-notice&quot;:{}}">
+                <div class="compare-notice__text"></div><a class="link link_theme_normal button2 button2_theme_white i-bem" tabindex="0" href="/pogoda/compare?via=compcn" aria-hidden="true" data-bem="{&quot;link&quot;:{}}">Перейти к сравнению</a>
+                <div class="compare-notice__close">
+                    <i class="icon icon_close icon_size_24" aria-hidden="true" data-width="24"></i>
+                </div>
+            </div>
+        </div>
+        <div class="content content_compressed content_header-only">
+            <div class="content__row-inline">
+                <nav class="breadcrumbs" role="navigation">
+                    <ol class="breadcrumbs__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+                        <li class="breadcrumbs__item breadcrumbs__item_clickable" itemscope itemprop="ItemListElement" itemtype="http://schema.org/ListItem"><a class="link link_theme_normal i-bem" tabindex="0" href="https://yandex.ru/pogoda/region/225?via=brd" itemprop="item" data-bem="{&quot;link&quot;:{}}"><span class="breadcrumbs__title" itemprop="name">Россия</span>
+                            <meta itemprop="position" content="1"></a></li>
+                        <li class="breadcrumbs__item breadcrumbs__item_clickable" itemscope itemprop="ItemListElement" itemtype="http://schema.org/ListItem"><a class="link link_theme_normal i-bem" tabindex="0" href="https://yandex.ru/pogoda/region/10842?via=brd" itemprop="item" data-bem="{&quot;link&quot;:{}}"><span class="breadcrumbs__title" itemprop="name">Архангельская область</span>
+                            <meta itemprop="position" content="2"></a></li>
+                        <li class="breadcrumbs__item"><span class="breadcrumbs__title" itemprop="name">Архангельск</span>
+                            <meta itemprop="position"></li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+        <div class="content content_compressed i-bem" data-bem="{&quot;content&quot;:{}}">
+            <div class="content__top">
+                <div class="content__main">
+                    <div class="content__row-inline">
+                        <div class="alerts alerts_cols_0"></div>
+                    </div>
+                    <div class="content__row">
+                        <div class="fact card card_size_big" role="region" aria-labelledby="main_title">
+                            <div class="fact__theme fact__theme_night-clear"></div>
+                            <div class="header-title header-title_in-fact">
+                                <h1 class="title title_level_1 header-title__title" id="main_title">Погода в Архангельске</h1>
+                                <div class="header-title__buttons header-title__buttons_theme_transparent">
+                                    <button class="button button_theme_pseudo button_size_xs my-location header-title__geolocation i-bem" type="button" autocomplete="off" aria-label="Рассчитать прогноз для моих координат" data-bem="{&quot;button&quot;:{},&quot;my-location&quot;:{&quot;manualLink&quot;:&quot;/support/common/browsers-settings/geolocation.html&quot;,&quot;defaultText&quot;:&quot;Рядом со мной&quot;,&quot;progressText&quot;:&quot;Подождите..&quot;}}"><span class="button__text"><span class="inline-icon inline-icon_id_geolocation my-location__icon" aria-hidden="true">
+                                        <svg viewbox="0 0 16 16">
+                                            <path fill="currentColor" d="M6.3 9.7l-3.5-1a1 1 0 01-.2-1.9l9.7-4.2a.8.8 0 011.1 1l-4.2 9.8a1 1 0 01-2-.2l-.9-3.5z" />
+                                        </svg> </span>
+                                        <div class="spin2 spin2_tone_dark spin2_size_xxs spin2_view_default my-location__spin"></div>
+                                        <div class="my-location__text">
+                                            Рядом со мной
+                                        </div></span></button>
+                                </div>
+                            </div>
+                            <div class="fact__time-yesterday-wrap">
+                                <time class="time fact__time" datetime="2020-12-09 08:04+0300">Сейчас 08:04. </time>
+                                <div class="term term_orient_h fact__yesterday">
+                                    <div class="term__label">
+                                        Вчера в это время
+                                    </div>
+                                    <div class="term__value">
+                                        <div class="temp" role="text">
+                                            <span class="temp__value">−5</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="fact__spacer fact__spacer_size_l"></div>
+                            <div class="fact__temp-wrap">
+                                <a class="link fact__basic fact__basic_size_wide day-anchor i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=mf#9" data-bem="{&quot;link&quot;:{},&quot;day-anchor&quot;:{&quot;anchor&quot;:9}}">
+                                    <div class="temp fact__temp fact__temp_size_s" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">Текущая температура</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div><img class="icon icon_color_light icon_size_48 icon_thumb_skc-n fact__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/light/skc_n.svg">
+                                    <div class="link__feelings fact__feelings">
+                                        <div class="link__condition day-anchor i-bem" data-bem="{&quot;day-anchor&quot;:{&quot;anchor&quot;:9}}">
+                                            Ясно
+                                        </div>
+                                        <div class="term term_orient_h fact__feels-like">
+                                            <div class="term__label">
+                                                Ощущается как
+                                            </div>
+                                            <div class="term__value">
+                                                <div class="temp" role="text">
+                                                    <span class="temp__value">−12</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div></a>
+                            </div>
+                            <div class="fact__spacer fact__spacer_size_s"></div>
+                            <div class="fact__props">
+                                <div class="term term_orient_v fact__wind-speed">
+                                    <div class="term__label"></div>
+                                    <div class="term__value" aria-label="Ветер: 2.8 Метров в секунду, юго-западный" role="text">
+                                        <i class="icon icon_wind-airflow-white term__fact-icon" aria-hidden="true"></i><span class="wind-speed">2,8</span> <span class="fact__unit">м/с, <abbr class=" icon-abbr" title="Ветер: юго-западный" aria-label="Ветер: юго-западный" role="text">ЮЗ</abbr><i class="icon icon_size_12 icon_wind_sw icon_wind" aria-hidden="true" data-width="12"></i></span>
+                                    </div>
+                                </div>
+                                <div class="term term_orient_v fact__humidity">
+                                    <div class="term__label"></div>
+                                    <div class="term__value" aria-label="Влажность: 86%" role="text">
+                                        <i class="icon icon_humidity-white term__fact-icon" aria-hidden="true"></i>86%
+                                    </div>
+                                </div>
+                                <div class="term term_orient_v fact__pressure">
+                                    <div class="term__label"></div>
+                                    <div class="term__value" aria-label="Давление: 773 Миллиметров ртутного столба" role="text">
+                                        <i class="icon icon_pressure-white term__fact-icon" aria-hidden="true"></i>773 <span class="fact__unit">мм рт. ст.</span>
+                                    </div>
+                                </div>
+                                <div class="term term_orient_v fact__water">
+                                    <div class="term__label"></div>
+                                    <div class="term__value"></div>
+                                </div>
+                            </div>
+                            <div class="fact__spacer fact__spacer_size_s fact__spacer_with-border-bottom"></div>
+                            <div class="fact__spacer fact__spacer_size_l"></div>
+                            <div class="fact__hourly fact__hourly_nav-visible_next i-bem" data-bem="{&quot;fact__hourly&quot;:{&quot;a11yNextSlideText&quot;:&quot;Пролистать вперед&quot;,&quot;a11yPrevSlideText&quot;:&quot;Пролистать назад&quot;}}">
+                                <div class="swiper-container fact__hourly-swiper">
+                                    <h2 class="title title_level_2 a11y-hidden">Почасовой прогноз</h2>
+                                    <div class="fact__hourly-nav fact__hourly-nav_type_prev fact__hourly-nav_light swiper-button-disabled"></div>
+                                    <ul class="swiper-wrapper" aria-label="Почасовой прогноз">
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 8 часов ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                8:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 9 часов ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                9:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 10 часов ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                10:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="Восход в 10:02" role="text">
+                                            <div class="fact__hour-label">
+                                                10:02
+                                            </div><img class="icon icon_color_flat icon_thumb_sunrise fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/fct_sn_rs.svg">
+                                            <div class="fact__hour-temp">
+                                                Восход
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 11 часов ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                11:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-d fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_d.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 12 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                12:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-d fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_d.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 13 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                13:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-d fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_d.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 14 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                14:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-d fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_d.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="Закат в 14:18" role="text">
+                                            <div class="fact__hour-label">
+                                                14:18
+                                            </div><img class="icon icon_color_flat icon_thumb_sunset fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/fct_sn_dwn.svg">
+                                            <div class="fact__hour-temp">
+                                                Закат
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 15 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                15:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 16 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                16:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 17 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                17:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 18 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                18:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 19 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                19:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 20 часов ясно, −8°" role="text">
+                                            <div class="fact__hour-label">
+                                                20:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −8°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 21 час ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                21:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 22 часа ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                22:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 23 часа ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                23:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour-separator" aria-hidden="true">
+                                            <div class="fact__hour-separator-border"></div></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 0 часов ясно, −6°" role="text">
+                                            <div class="fact__hour-label">
+                                                чт, 0:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −6°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 1 час ясно, −6°" role="text">
+                                            <div class="fact__hour-label">
+                                                1:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −6°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 2 часа ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                2:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 3 часа ясно, −6°" role="text">
+                                            <div class="fact__hour-label">
+                                                3:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −6°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 4 часа ясно, −6°" role="text">
+                                            <div class="fact__hour-label">
+                                                4:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −6°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 5 часов ясно, −6°" role="text">
+                                            <div class="fact__hour-label">
+                                                5:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −6°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 6 часов ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                6:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                        <li class="fact__hour swiper-slide"><span class="fact__hour-elem" aria-label="В 7 часов ясно, −7°" role="text">
+                                            <div class="fact__hour-label">
+                                                7:00
+                                            </div><img class="icon icon_color_flat icon_thumb_skc-n fact__hour-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/flat/skc_n.svg">
+                                            <div class="fact__hour-temp">
+                                                −7°
+                                            </div></span></li>
+                                    </ul>
+                                    <div class="fact__hourly-nav fact__hourly-nav_type_next"></div>
+                                </div>
+                            </div>
+                            <div class="fact__spacer fact__spacer_size_l"></div>
+                        </div>
+                        <div class="maps-widget-nowcast maps-widget-nowcast_tiled card content__brief i-bem" role="region" aria-labelledby="maps_widget_nowcast_title" data-bem="{&quot;maps-widget-nowcast&quot;:{&quot;imagesData&quot;:[{&quot;type&quot;:&quot;static-map&quot;,&quot;url&quot;:&quot;https://static-maps.yandex.ru/1.x/?l=map&amp;ll=40.516939,64.539393&amp;key=ABBKoFkBAAAA3gQdOgIAuo2fHOOVBZ04CbWgljIftzdYdo0AAAAAAAAAAAAyVVe1vq15p22_q-Rsx24s6lkLjg==&amp;z=6&amp;size=1200,1200&amp;scale=2&amp;lang=ru_RU&quot;},{&quot;type&quot;:&quot;nowcast&quot;,&quot;url&quot;:&quot;//yandex.ru/pogoda/front/maps/live/nowcast?lat=64.539393&amp;lon=40.516939&amp;z=6&amp;width=600&amp;height=600&quot;}]}}">
+                            <h2 class="title title_level_2 a11y-hidden" id="maps_widget_nowcast_title">Погода на карте</h2><a class="link maps-widget-nowcast__map-link i-bem" tabindex="-1" href="/pogoda/arhangelsk/maps/nowcast?via=mmapwb" aria-label="На карте" data-bem="{&quot;link&quot;:{}}"><img class="image maps-widget-nowcast__image maps-widget-nowcast__image_type_static-map" src="https://static-maps.yandex.ru/1.x/?l=map&amp;ll=40.516939,64.539393&amp;key=ABBKoFkBAAAA3gQdOgIAuo2fHOOVBZ04CbWgljIftzdYdo0AAAAAAAAAAAAyVVe1vq15p22_q-Rsx24s6lkLjg==&amp;z=6&amp;size=1200,1200&amp;scale=2&amp;lang=ru_RU" alt="" style="height: 600px; width: 600px" aria-hidden="true">
+                            <div class="instant-map-layer maps-widget-nowcast__tiled-nowcast-layer maps-widget-nowcast__image maps-widget-nowcast__image_type_nowcast">
+                                <div class="instant-map-layer__layer" aria-hidden="true" style="width: 600px;height: 600px;margin-left: -300px;margin-top: -300px;background-position: -8px -189px,-8px 67px,-8px 323px,-8px 579px,-8px 835px,248px -189px,248px 67px,248px 323px,248px 579px,248px 835px,504px -189px,504px 67px,504px 323px,504px 579px,504px 835px,760px -189px,760px 67px,760px 323px,760px 579px,760px 835px;background-image: url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=38&amp;y=15&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=38&amp;y=16&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=38&amp;y=17&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=38&amp;y=18&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=38&amp;y=19&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=39&amp;y=15&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=39&amp;y=16&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=39&amp;y=17&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=39&amp;y=18&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=39&amp;y=19&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=40&amp;y=15&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=40&amp;y=16&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=40&amp;y=17&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=40&amp;y=18&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=40&amp;y=19&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=41&amp;y=15&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=41&amp;y=16&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=41&amp;y=17&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=41&amp;y=18&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773),url(https://api.weather.yandex.ru/frontend/nowcast/tile?x=41&amp;y=19&amp;z=6&amp;scale=2&amp;for_date=1607490000&amp;nowcast_gen_time=1607489773)"></div>
+                            </div></a>
+                            <div class="maps-widget-fact maps-widget-nowcast__inner">
+                                <a class="link maps-widget-fact__content i-bem" tabindex="0" href="/pogoda/arhangelsk/maps/nowcast?via=mmapw" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="maps-widget-fact__image maps-widget-fact__icon-wrapper">
+                                        <img class="icon icon_size_32 icon_thumb_skc-n icon_color_light" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/light/skc_n.svg">
+                                    </div><p class="maps-widget-fact__title">В ближайшие 2 часа осадков не&nbsp;ожидается</p>
+                                    <div class="maps-widget-fact__link">
+                                        Показать на карте
+                                    </div></a>
+                                <ul class="maps-widget-fact__buttons-list maps-widget-fact__buttons-list_elems-count_4">
+                                    <li class="maps-widget-fact__button"><a class="link maps-widget-fact__button-link i-bem" tabindex="0" href="/pogoda/arhangelsk/maps/nowcast?via=mmapw" aria-label="Перейти на карту осадков" data-bem="{&quot;link&quot;:{}}"><i class="maps-widget-fact__tab-icon tab-icon tab-icon_color_black tab-icon_nowcast" aria-hidden="true"></i><span class="maps-widget-fact__button-text">осадки</span></a></li>
+                                    <li class="maps-widget-fact__button"><a class="link maps-widget-fact__button-link i-bem" tabindex="0" href="/pogoda/arhangelsk/maps/temperature?via=mmapw" aria-label="Перейти на карту температуры" data-bem="{&quot;link&quot;:{}}"><i class="maps-widget-fact__tab-icon tab-icon tab-icon_color_black tab-icon_temperature" aria-hidden="true"></i><span class="maps-widget-fact__button-text">температура</span></a></li>
+                                    <li class="maps-widget-fact__button"><a class="link maps-widget-fact__button-link i-bem" tabindex="0" href="/pogoda/arhangelsk/maps/wind?via=mmapw" aria-label="Перейти на карту ветра" data-bem="{&quot;link&quot;:{}}"><i class="maps-widget-fact__tab-icon tab-icon tab-icon_color_black tab-icon_wind" aria-hidden="true"></i><span class="maps-widget-fact__button-text">Ветер</span></a></li>
+                                    <li class="maps-widget-fact__button"><a class="link maps-widget-fact__button-link i-bem" tabindex="0" href="/pogoda/arhangelsk/maps/pressure?via=mmapw" aria-label="Перейти на карту давления" data-bem="{&quot;link&quot;:{}}"><i class="maps-widget-fact__tab-icon tab-icon tab-icon_color_black tab-icon_pressure" aria-hidden="true"></i><span class="maps-widget-fact__button-text">Давление</span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content__row content__row_with-right-margin">
+                <div class="forecast-briefly card i-bem" role="region" aria-labelledby="forecast_briefly_title" data-bem="{&quot;forecast-briefly&quot;:{&quot;initialSlide&quot;:3,&quot;a11yNextSlideText&quot;:&quot;Пролистать вперед&quot;,&quot;a11yPrevSlideText&quot;:&quot;Пролистать назад&quot;}}">
+                    <div class="forecast-briefly__header">
+                        <h2 class="title title_level_2 forecast-briefly__header-title" id="forecast_briefly_title">Прогноз на 10 дней</h2>
+                        <div class="forecast-briefly__header-buttons">
+                            <a class="link link_theme_normal forecast-briefly__header-button i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms" data-bem="{&quot;link&quot;:{}}">Подробный прогноз на 10 дней</a><a class="link link_theme_normal forecast-briefly__header-button i-bem" tabindex="0" href="/pogoda/arhangelsk/month/?via=ms" data-bem="{&quot;link&quot;:{}}">На месяц</a>
+                        </div>
+                    </div>
+                    <div class="forecast-briefly__days swiper-container">
+                        <div class="forecast-briefly__side-button forecast-briefly__side-button_pos_left swiper4__button-wrapper swiper-button-disabled">
+                            <div class="swiper4__fadeout swiper4__fadeout_side_prev swiper-button-black swiper-button-prev"></div>
+                        </div>
+                        <ul class="swiper-wrapper">
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_preview-day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Сб
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-05 00:00+0300">5 дек</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">0</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−5</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_sunday forecast-briefly__day_weekend forecast-briefly__day_preview-day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вс
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-06 00:00+0300">6 дек</time><img class="icon icon_thumb_ovc-m-ra icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_-ra.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">+1</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">+1</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Небольшой дождь
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekstart forecast-briefly__day_preview-day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пн
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-07 00:00+0300">7 дек</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">+1</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">+1</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_preview-day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вчера
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-08 00:00+0300">8 дек</time><img class="icon icon_thumb_skc-d icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/skc_d.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−3</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Малооблачно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#9" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Сегодня
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-09 00:00+0300">9 дек</time><img class="icon icon_thumb_skc-d icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/skc_d.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre">днём</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre">ночью</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Ясно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#10" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Чт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-10 00:00+0300">10 дек</time><img class="icon icon_thumb_skc-d icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/skc_d.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−6</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−11</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Ясно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#11" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-11 00:00+0300">11 дек</time><img class="icon icon_thumb_skc-d icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/skc_d.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−11</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−13</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Малооблачно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#12" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Сб
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-12 00:00+0300">12 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_sunday forecast-briefly__day_weekend swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#13" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вс
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-13 00:00+0300">13 дек</time><img class="icon icon_thumb_ovc-m-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_-sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−3</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Небольшой снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekstart swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#14" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пн
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-14 00:00+0300">14 дек</time><img class="icon icon_thumb_ovc-m-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_-sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−5</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Небольшой снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#15" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-15 00:00+0300">15 дек</time><img class="icon icon_thumb_ovc-m-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_-sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Небольшой снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#16" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Ср
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-16 00:00+0300">16 дек</time><img class="icon icon_thumb_ovc-m-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_-sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−5</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Небольшой снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#17" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Чт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-17 00:00+0300">17 дек</time><img class="icon icon_thumb_ovc-m-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_-sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−3</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Небольшой снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=ms#18" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-18 00:00+0300">18 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−1</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−1</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Сб
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-19 00:00+0300">19 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−8</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−8</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_sunday forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вс
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-20 00:00+0300">20 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−6</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekstart forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пн
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-21 00:00+0300">21 дек</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−8</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-22 00:00+0300">22 дек</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−8</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−9</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Ср
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-23 00:00+0300">23 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Чт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-24 00:00+0300">24 дек</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-25 00:00+0300">25 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−8</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Сб
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-26 00:00+0300">26 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−8</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−9</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_sunday forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вс
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-27 00:00+0300">27 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−8</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−8</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekstart forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пн
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-28 00:00+0300">28 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-29 00:00+0300">29 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−6</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Ср
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-30 00:00+0300">30 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−6</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Чт
+                                    </div><time class="time forecast-briefly__date" datetime="2020-12-31 00:00+0300">31 дек</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−6</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−7</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пт
+                                    </div><time class="time forecast-briefly__date" datetime="2021-01-01 00:00+0300">1 янв</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−4</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−10</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Сб
+                                    </div><time class="time forecast-briefly__date" datetime="2021-01-02 00:00+0300">2 янв</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−10</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−12</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_sunday forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вс
+                                    </div><time class="time forecast-briefly__date" datetime="2021-01-03 00:00+0300">3 янв</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−12</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−13</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_weekstart forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пн
+                                    </div><time class="time forecast-briefly__date" datetime="2021-01-04 00:00+0300">4 янв</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−13</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−14</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Вт
+                                    </div><time class="time forecast-briefly__date" datetime="2021-01-05 00:00+0300">5 янв</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−13</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−14</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Ср
+                                    </div><time class="time forecast-briefly__date" datetime="2021-01-06 00:00+0300">6 янв</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−12</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−13</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Чт
+                                    </div><time class="time forecast-briefly__date" datetime="2021-01-07 00:00+0300">7 янв</time><img class="icon icon_thumb_ovc icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−11</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−11</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Пасмурно
+                                    </div></a>
+                            </div>
+                            <div class="forecast-briefly__day forecast-briefly__day_weekend forecast-briefly__day_climate swiper-slide">
+                                <a class="link link_theme_normal i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=ms" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="forecast-briefly__name">
+                                        Пт
+                                    </div><time class="time forecast-briefly__date" datetime="2021-01-08 00:00+0300">8 янв</time><img class="icon icon_thumb_ovc-sn icon_size_48 icon_color_dark forecast-briefly__icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc_sn.svg">
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_day" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">днём</span><span class="temp__value">−9</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="temp forecast-briefly__temp forecast-briefly__temp_night" role="text">
+                                        <span class="temp__pre-a11y a11y-hidden">ночью</span><span class="temp__value">−12</span><span class="temp__unit i-font i-font_face_yandex-sans-text-medium">°</span>
+                                    </div>
+                                    <div class="forecast-briefly__condition">
+                                        Снег
+                                    </div></a>
+                            </div>
+                        </ul>
+                        <div class="forecast-briefly__side-button forecast-briefly__side-button_pos_right swiper4__button-wrapper swiper-button-disabled">
+                            <div class="swiper4__fadeout swiper4__fadeout_side_next swiper-button-black swiper-button-next"></div>
+                        </div>
+                        <div class="popup2 popup2_target_anchor popup2_hiding_yes popup2_autoclosable_yes popup2_theme_normal popup2_view_classic tooltip tooltip_theme_normal tooltip_size_s tooltip_autoclosable_yes tooltip_view_classic forecast-briefly__tooltip i-bem" data-bem="{&quot;popup2&quot;:{&quot;mainOffset&quot;:7,&quot;directions&quot;:[&quot;top-center&quot;]}}">
+                            <div class="tooltip__backdrop">
+                                <div class="popup2__tail"></div>
+                            </div>
+                            <div class="tooltip__content"></div>
+                        </div>
+                    </div>
+                    <div class="forecast-briefly__cameras-anchor" id="cameras_anchor"></div>
+                </div>
+            </div>
+            <div class="content__bottom">
+                <div class="content__col">
+                    <div class="content__row content__row_cards-count_3 content__row_first-card-low-priority">
+                        <div class="sun-card sun-card_theme_light card content__elem content__elem_pos_1" role="region" aria-labelledby="sun_card_title">
+                            <div class="sun-card__planet">
+                                <div class="sun-card__sun-circles sun-card__sun-circles_sun-pos_left sun-card__sun-circles_earth-pos_before"></div>
+                                <div class="sun-card__earth">
+                                    <i class="icon icon_size_90 icon_earth-left_2" aria-hidden="true" data-width="90"></i>
+                                </div>
+                                <div class="sun-card__sun-circles sun-card__sun-circles_sun-pos_left sun-card__sun-circles_earth-pos_after"></div>
+                                <div class="sun-card__moon" style="transform: rotateZ(0.125turn)">
+                                    <i class="icon icon_size_28 icon_moon-light_waning-crescent sun-card__moon-icon" style="transform: rotateZ(-0.125turn)" aria-hidden="true" data-width="28"></i>
+                                </div>
+                            </div>
+                            <div class="sun-card__info">
+                                <div class="sun-card__sunrise-sunset">
+                                    <div class="sun-card__sunrise-sunset-icon"></div>
+                                    <div class="sun-card__day-duration">
+                                        <h2 class="sun-card__day-duration-label" id="sun_card_title" aria-label="Световой день">Световой день</h2>
+                                        <div class="sun-card__day-duration-value">
+                                            4&nbsp;ч 16&nbsp;мин
+                                        </div>
+                                    </div>
+                                    <div class="sun-card__sunrise-sunset-info-wrapper">
+                                        <div class="sun-card__sunrise-sunset-info sun-card__sunrise-sunset-info_value_rise-time">
+                                            <div class="a11y-hidden">
+                                                Восход
+                                            </div>10:02
+                                        </div>
+                                        <div class="sun-card__sunrise-sunset-info sun-card__sunrise-sunset-info_value_set-time">
+                                            <div class="a11y-hidden">
+                                                Закат
+                                            </div>14:18
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="sun-card__text-info">
+                                    <div class="sun-card__text-info-value">
+                                        Убывающая луна
+                                    </div>
+                                    <div class="sun-card__text-info-value">
+                                        Спокойное магнитное поле
+                                    </div>
+                                    <div class="sun-card__text-info-value">
+                                        Низкий УФ-индекс
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="camera card content__elem content__elem_pos_2" role="region" aria-labelledby="camera_title">
+                            <h2 class="title title_level_2 card-title" id="camera_title">Проспект Ломоносова</h2><iframe class="camera__broadcast" src="https://frontend.vh.yandex.ru/player/4e494df66cf0e202ba1c1174215a3559?from=ya-weather&amp;tv=0&amp;mute=1&amp;autoplay=1&amp;play_on_visible=true" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="climate-card card content__elem content__elem_pos_3" role="region" aria-labelledby="climate_card_title">
+                            <h2 class="title title_level_2 climate-card__title" id="climate_card_title">Погода по месяцам</h2>
+                            <div class="climate-card__layout">
+                                <a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/january?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                    <div class="climate-card__item-name" aria-label="январь" role="text">
+                                        янв.
+                                    </div>
+                                    <div class="climate-card__value-wrap">
+                                        <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                        <div class="climate-card__item-temp">
+                                            −10°
+                                        </div>
+                                    </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/february?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="февраль" role="text">
+                                    февр.
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        −8°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/march?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="март" role="text">
+                                    март
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        −3°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/april?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="апрель" role="text">
+                                    апр.
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        +3°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/may?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="май" role="text">
+                                    май
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        +11°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/june?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="июнь" role="text">
+                                    июнь
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_bkn-d climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/bkn_d.svg">
+                                    <div class="climate-card__item-temp">
+                                        +16°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/july?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="июль" role="text">
+                                    июль
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_bkn-d climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/bkn_d.svg">
+                                    <div class="climate-card__item-temp">
+                                        +20°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/august?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="август" role="text">
+                                    авг.
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        +17°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/september?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="сентябрь" role="text">
+                                    сент.
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        +11°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/october?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="октябрь" role="text">
+                                    окт.
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        +4°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/november?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="ноябрь" role="text">
+                                    нояб.
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        −2°
+                                    </div>
+                                </div></a><a class="link climate-card__item i-bem" tabindex="0" href="/pogoda/arhangelsk/month/december?via=mcc" data-bem="{&quot;link&quot;:{}}">
+                                <div class="climate-card__item-name" aria-label="декабрь" role="text">
+                                    дек.
+                                </div>
+                                <div class="climate-card__value-wrap">
+                                    <img class="icon icon_color_dark icon_size_28 icon_thumb_ovc climate-card__item-icon" aria-hidden="true" src="//yastatic.net/weather/i/icons/funky/dark/ovc.svg">
+                                    <div class="climate-card__item-temp">
+                                        −6°
+                                    </div>
+                                </div></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content__right">
+                <div class="adv adv_pos_index-side-up">
+                    <div id="R-I-49688-152"></div>
+                    <script nonce="1607490245033938-5898650426556042059">(function(w,d,n,s,t){var initTime = new Date();w[n]=w[n]||[];w[n].push(function(){var params={"blockId":"R-I-49688-152","renderTo":"R-I-49688-152","async":true,"extParams":"&temp=-7&icon=skc_n&humidity=86&city=20&country=225&reqid=1607490245033938-5898650426556042059&awaps_section=8939","pos":["index","side","up"],"cspNonce":"1607490245033938-5898650426556042059"};var advPosNames=".629.507.600";var advStartTime=Ya.Rum.getTime();params.initTime = initTime;params.onRender=function(data){if (Ya.Rum.makeSubPage && advPosNames) {var subPage = Ya.Rum.makeSubPage('155' + advPosNames);Ya.Rum.sendTTI(false, advStartTime, subPage);var timeMarkName = '2046';if (data.product === 'direct') {timeMarkName += '.155';} else if (data.product === 'rtb') {timeMarkName += '.3431';};Ya.Rum.sendTimeMark(timeMarkName, Ya.Rum.getTime(), false, subPage);};var el = document.getElementById("R-I-49688-152");var parent = el.parentNode;if (data.product === 'rtb') {parent.classList.add('adv_type_rtb');} else { parent.classList.add('adv_type_direct');};};Ya.Context.AdvManager.render(params);});t=d.getElementsByTagName("script")[0];s=d.createElement("script");s.src="//an.yandex.ru/system/context.js";s.async=true;s.defer=true;t.parentNode.insertBefore(s,t);}).bind(this, this, this.document, "yandexContextAsyncCallbacks")();</script>
+                </div>
+                <div class="adv adv_pos_index-side-down">
+                    <div id="R-I-49688-151"></div>
+                    <script nonce="1607490245033938-5898650426556042059">(function(w,d,n,s,t){var initTime = new Date();w[n]=w[n]||[];w[n].push(function(){var params={"blockId":"R-I-49688-151","renderTo":"R-I-49688-151","async":true,"extParams":"&temp=-7&icon=skc_n&humidity=86&city=20&country=225&reqid=1607490245033938-5898650426556042059&awaps_section=8939","pos":["index","side","down"],"cspNonce":"1607490245033938-5898650426556042059"};var advPosNames=".629.507.601";var advStartTime=Ya.Rum.getTime();params.initTime = initTime;params.onRender=function(data){if (Ya.Rum.makeSubPage && advPosNames) {var subPage = Ya.Rum.makeSubPage('155' + advPosNames);Ya.Rum.sendTTI(false, advStartTime, subPage);var timeMarkName = '2046';if (data.product === 'direct') {timeMarkName += '.155';} else if (data.product === 'rtb') {timeMarkName += '.3431';};Ya.Rum.sendTimeMark(timeMarkName, Ya.Rum.getTime(), false, subPage);};var el = document.getElementById("R-I-49688-151");var parent = el.parentNode;if (data.product === 'rtb') {parent.classList.add('adv_type_rtb');} else { parent.classList.add('adv_type_direct');};};Ya.Context.AdvManager.render(params);});}).bind(this, this, this.document, "yandexContextAsyncCallbacks")();</script>
+                </div>
+            </div>
+            <div class="card content__adv jsadv_idx_0">
+                <div class="adv adv_pos_index-details_top">
+                    <div id="R-I-49688-431"></div>
+                    <script nonce="1607490245033938-5898650426556042059">(function(w,d,n,s,t){var initTime = new Date();w[n]=w[n]||[];w[n].push(function(){var params={"blockId":"R-I-49688-431","renderTo":"R-I-49688-431","async":true,"extParams":"&temp=-7&icon=skc_n&humidity=86&city=20&country=225&reqid=1607490245033938-5898650426556042059&awaps_section=8939","pos":["index","details_top"],"cspNonce":"1607490245033938-5898650426556042059"};var advPosNames=".629.1362.77";var advStartTime=Ya.Rum.getTime();params.initTime = initTime;params.onRender=function(data){if (Ya.Rum.makeSubPage && advPosNames) {var subPage = Ya.Rum.makeSubPage('155' + advPosNames);Ya.Rum.sendTTI(false, advStartTime, subPage);var timeMarkName = '2046';if (data.product === 'direct') {timeMarkName += '.155';} else if (data.product === 'rtb') {timeMarkName += '.3431';};Ya.Rum.sendTimeMark(timeMarkName, Ya.Rum.getTime(), false, subPage);};var el = document.getElementById("R-I-49688-431");var parent = el.parentNode;if (data.product === 'rtb') {parent.classList.add('adv_type_rtb');} else { parent.classList.add('adv_type_direct');};};Ya.Context.AdvManager.render(params);});t=d.getElementsByTagName("script")[0];s=d.createElement("script");s.src="//an.yandex.ru/system/context.js";s.async=true;s.defer=true;t.parentNode.insertBefore(s,t);}).bind(this, this, this.document, "yandexContextAsyncCallbacks")();</script>
+                </div>
+            </div>
+            <div class="forecast-details-segment i-bem" data-bem="{&quot;forecast-details-segment&quot;:{&quot;query&quot;:{&quot;cameras&quot;:0,&quot;geoid&quot;:20},&quot;css&quot;:&quot;//yastatic.net/s3/weather-frontend/11.26.0/desktop.bundles/segment-details/_segment-details.css&quot;}}">
+                <div class="forecast-details-segment__container"></div>
+            </div>
+        </div>
+        <footer class="footer clearfix" role="contentinfo">
+            <p class="copyright-tech">Прогноз погоды в Архангельске на сегодня, завтра и на ближайшую неделю с точностью до района — рассчитан с помощью <a class="link i-bem" target="_blank" tabindex="0" href="https://yandex.ru/pogoda/meteum" rel="noopener" data-bem="{&quot;link&quot;:{}}">технологии Meteum</a></p>
+            <div class="footer__links">
+                <div class="links-section">
+                    <h3 class="links-section__title">Ссылки</h3>
+                    <div class="links-section__list">
+                        <a class="link link_theme_normal links-section__link i-bem" target="_blank" tabindex="0" href="//yandex.ru/pogoda/docs/" rel="noopener" data-bem="{&quot;link&quot;:{}}">Помощь</a><a class="link link_theme_normal links-section__link i-bem" target="_blank" tabindex="0" href="//yandex.ru/legal/weather_termsofuse/" rel="noopener" data-bem="{&quot;link&quot;:{}}">Пользовательское соглашение</a><a class="link link_theme_normal links-section__link i-bem" target="_blank" tabindex="0" href="//yandex.ru/support/weather/troubleshooting.xml" rel="noopener" data-bem="{&quot;link&quot;:{}}">Обратная связь</a>
+                    </div>
+                </div>
+                <div class="links-section">
+                    <h3 class="links-section__title">Партнёрам</h3>
+                    <div class="links-section__list">
+                        <a class="link link_theme_normal links-section__link i-bem" tabindex="0" href="//yandex.ru/adv/products/context" data-bem="{&quot;link&quot;:{}}">Реклама</a><a class="link link_theme_normal links-section__link i-bem" tabindex="0" href="/pogoda/arhangelsk/informer?via=f" data-bem="{&quot;link&quot;:{}}">Информеры</a><a class="link link_theme_normal links-section__link i-bem" target="_blank" tabindex="0" href="//tech.yandex.ru/weather" rel="noopener" data-bem="{&quot;link&quot;:{}}">API Яндекс.Погоды</a>
+                    </div>
+                </div>
+                <div class="links-section">
+                    <h3 class="links-section__title">Прогноз погоды</h3>
+                    <div class="links-section__list">
+                        <a class="link link_theme_normal links-section__link i-bem" tabindex="0" href="//p.ya.ru/arhangelsk?via=f" data-bem="{&quot;link&quot;:{}}">Почасовой прогноз</a><a class="link link_theme_normal links-section__link i-bem" tabindex="0" href="/pogoda/arhangelsk/details?via=f" data-bem="{&quot;link&quot;:{}}">Подробный прогноз на 10 дней</a><a class="link link_theme_normal links-section__link i-bem" tabindex="0" href="/pogoda/arhangelsk/month/?via=f" data-bem="{&quot;link&quot;:{}}">Прогноз на месяц</a><a class="link link_theme_normal links-section__link i-bem" tabindex="0" href="/pogoda/arhangelsk/maps?via=f" data-bem="{&quot;link&quot;:{}}">Погода на карте</a>
+                    </div>
+                </div>
+                <div class="links-section">
+                    <h3 class="links-section__title">Мобильное приложение</h3>
+                    <div class="apps">
+                        <a class="store store_lang_ru" title="Скачать приложение Яндекс в Google Play" aria-label="Скачать приложение Яндекс в Google Play" href="https://redirect.appmetrica.yandex.com/serve/673628255453989055?c=weather_footer_desk">
+                            <div class="store__badge store__badge_type_google"></div></a><a class="store store_lang_ru" title="Скачать приложение Яндекс в App Store" aria-label="Скачать приложение Яндекс в App Store" href="https://redirect.appmetrica.yandex.com/serve/817743447623542148?c=weather_footer_desk">
+                        <div class="store__badge store__badge_type_apple"></div></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer__end">
+                <div class="footer__data-providers-copyright">
+                    Исходные данные: ООО «Яндекс.Пробки»; Росгидромет, ФГБУ «ЦАО»; © 2020 ECMWF; NOAA
+                </div>
+                <div class="copyright">
+                    ©&nbsp;<span class="copyright__dates">2000–2020</span>&nbsp;&nbsp;ООО «<a class="copyright__link" href="//yandex.ru">ЯНДЕКС</a>»
+                </div>
+            </div>
+        </footer>
+        <script src="//yastatic.net/jquery/1.9.1/jquery.min.js"></script>
+        <script src="//yastatic.net/s3/weather-frontend/11.26.0/desktop.bundles/index/_index.ru.js" crossorigin="anonymous"></script><i class="b-statcounter"><i class="b-statcounter__metrika b-statcounter__metrika_type_js i-bem i-bem" data-bem="{&quot;b-statcounter__metrika&quot;:{&quot;enableAll&quot;:true,&quot;webvisor&quot;:true,&quot;params&quot;:{&quot;lang&quot;:&quot;ru&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;los_portal&quot;:false,&quot;forecastData&quot;:{&quot;days&quot;:[{&quot;temp_min&quot;:-8,&quot;temp_max&quot;:-6,&quot;date&quot;:&quot;2020-12-09&quot;,&quot;date_ts&quot;:1607461200000,&quot;icon&quot;:&quot;skc_d&quot;},{&quot;temp_min&quot;:-11,&quot;temp_max&quot;:-6,&quot;date&quot;:&quot;2020-12-10&quot;,&quot;date_ts&quot;:1607547600000,&quot;icon&quot;:&quot;skc_d&quot;},{&quot;temp_min&quot;:-13,&quot;temp_max&quot;:-8,&quot;date&quot;:&quot;2020-12-11&quot;,&quot;date_ts&quot;:1607634000000,&quot;icon&quot;:&quot;skc_d&quot;},{&quot;temp_min&quot;:-7,&quot;temp_max&quot;:-4,&quot;date&quot;:&quot;2020-12-12&quot;,&quot;date_ts&quot;:1607720400000,&quot;icon&quot;:&quot;ovc_sn&quot;},{&quot;temp_min&quot;:-4,&quot;temp_max&quot;:-3,&quot;date&quot;:&quot;2020-12-13&quot;,&quot;date_ts&quot;:1607806800000,&quot;icon&quot;:&quot;ovc_-sn&quot;},{&quot;temp_min&quot;:-5,&quot;temp_max&quot;:-4,&quot;date&quot;:&quot;2020-12-14&quot;,&quot;date_ts&quot;:1607893200000,&quot;icon&quot;:&quot;ovc_-sn&quot;},{&quot;temp_min&quot;:-5,&quot;temp_max&quot;:-4,&quot;date&quot;:&quot;2020-12-15&quot;,&quot;date_ts&quot;:1607979600000,&quot;icon&quot;:&quot;ovc_-sn&quot;},{&quot;temp_min&quot;:-5,&quot;temp_max&quot;:-4,&quot;date&quot;:&quot;2020-12-16&quot;,&quot;date_ts&quot;:1608066000000,&quot;icon&quot;:&quot;ovc_-sn&quot;},{&quot;temp_min&quot;:-5,&quot;temp_max&quot;:-3,&quot;date&quot;:&quot;2020-12-17&quot;,&quot;date_ts&quot;:1608152400000,&quot;icon&quot;:&quot;ovc_-sn&quot;},{&quot;temp_min&quot;:-3,&quot;temp_max&quot;:-1,&quot;date&quot;:&quot;2020-12-18&quot;,&quot;date_ts&quot;:1608238800000,&quot;icon&quot;:&quot;ovc_sn&quot;}],&quot;hourly&quot;:[{&quot;hour&quot;:&quot;8&quot;,&quot;hour_ts&quot;:1607490000,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;9&quot;,&quot;hour_ts&quot;:1607493600,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;10&quot;,&quot;hour_ts&quot;:1607497200,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;11&quot;,&quot;hour_ts&quot;:1607500800,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_d&quot;},{&quot;hour&quot;:&quot;12&quot;,&quot;hour_ts&quot;:1607504400,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_d&quot;},{&quot;hour&quot;:&quot;13&quot;,&quot;hour_ts&quot;:1607508000,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_d&quot;},{&quot;hour&quot;:&quot;14&quot;,&quot;hour_ts&quot;:1607511600,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_d&quot;},{&quot;hour&quot;:&quot;15&quot;,&quot;hour_ts&quot;:1607515200,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;16&quot;,&quot;hour_ts&quot;:1607518800,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;17&quot;,&quot;hour_ts&quot;:1607522400,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;18&quot;,&quot;hour_ts&quot;:1607526000,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;19&quot;,&quot;hour_ts&quot;:1607529600,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;20&quot;,&quot;hour_ts&quot;:1607533200,&quot;temp&quot;:-8,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;21&quot;,&quot;hour_ts&quot;:1607536800,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;22&quot;,&quot;hour_ts&quot;:1607540400,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;23&quot;,&quot;hour_ts&quot;:1607544000,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;0&quot;,&quot;hour_ts&quot;:1607547600,&quot;temp&quot;:-6,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;1&quot;,&quot;hour_ts&quot;:1607551200,&quot;temp&quot;:-6,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;2&quot;,&quot;hour_ts&quot;:1607554800,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;3&quot;,&quot;hour_ts&quot;:1607558400,&quot;temp&quot;:-6,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;4&quot;,&quot;hour_ts&quot;:1607562000,&quot;temp&quot;:-6,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;5&quot;,&quot;hour_ts&quot;:1607565600,&quot;temp&quot;:-6,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;6&quot;,&quot;hour_ts&quot;:1607569200,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_n&quot;},{&quot;hour&quot;:&quot;7&quot;,&quot;hour_ts&quot;:1607572800,&quot;temp&quot;:-7,&quot;icon&quot;:&quot;skc_n&quot;}],&quot;nowcastAlert&quot;:&quot;В ближайшие 2 часа осадков не&nbsp;ожидается&quot;,&quot;fact&quot;:{&quot;obs_time&quot;:1607490000000,&quot;uptime&quot;:1607490245,&quot;temp&quot;:-7,&quot;feels_like&quot;:-12,&quot;icon&quot;:&quot;skc_n&quot;,&quot;condition&quot;:&quot;clear&quot;,&quot;cloudness&quot;:0,&quot;prec_type&quot;:0,&quot;prec_prob&quot;:0,&quot;prec_strength&quot;:0,&quot;is_thunder&quot;:false,&quot;wind_speed&quot;:2.8,&quot;wind_dir&quot;:&quot;sw&quot;,&quot;pressure_mm&quot;:773,&quot;pressure_pa&quot;:1030,&quot;humidity&quot;:86,&quot;daytime&quot;:&quot;n&quot;,&quot;polar&quot;:false,&quot;season&quot;:&quot;winter&quot;,&quot;source&quot;:&quot;station&quot;,&quot;accum_prec&quot;:{&quot;1&quot;:0,&quot;3&quot;:0.097953305,&quot;7&quot;:0.25204057},&quot;soil_moisture&quot;:0.23,&quot;soil_temp&quot;:-2,&quot;uv_index&quot;:0,&quot;wind_gust&quot;:7.4}},&quot;test_id&quot;:[&quot;255025&quot;,&quot;255497&quot;,&quot;298378&quot;,&quot;221205&quot;,&quot;304477&quot;,&quot;307038&quot;,&quot;135686&quot;,&quot;258984&quot;,&quot;186872&quot;,&quot;299067&quot;,&quot;299102&quot;]},&quot;triggerEvent&quot;:true,&quot;experiments&quot;:&quot;BPnuJ8MK8FVH0iN7LiPt-9FOl9kwq3K2IiMiRs48D3jtQoMXpsqJ2Aw_HIfw5xkhI8PGJ1hIWUrm7njSoQ3fPuTCa9kA2OSlBPRrwMVPxp-fjUFZS7m1QBZysGZDzrIOKDMPn1owasVJ6ADpI8NbyDZOTg2w7oaqmkt3JactMOhopjjsAGwqNw&quot;,&quot;id&quot;:115080}}">
+        <noscript>
+            <img alt="" src="//mc.yandex.ru/watch/115080">
+        </noscript></i></i>
+        <div class="adv adv_pos_popup">
+            <div id="Y-A-289641-1"></div>
+            <script nonce="1607490245033938-5898650426556042059">(function(w,d,n,s,t){var initTime = new Date();w[n]=w[n]||[];w[n].push(function(){var params={"blockId":"Y-A-289641-1","renderTo":"Y-A-289641-1","async":true,"extParams":"&temp=-7&icon=skc_n&humidity=86&city=20&country=225&reqid=1607490245033938-5898650426556042059&awaps_section=8939","pos":["popup"],"cspNonce":"1607490245033938-5898650426556042059"};params.initTime = initTime;params.onRender=function(data){var el = document.getElementById("Y-A-289641-1");var parent = el.parentNode;if (data.product === 'rtb') {parent.classList.add('adv_type_rtb');} else { parent.classList.add('adv_type_direct');};};Ya.Context.AdvManager.render(params);});t=d.getElementsByTagName("script")[0];s=d.createElement("script");s.src="//an.yandex.ru/system/context.js";s.async=true;s.defer=true;t.parentNode.insertBefore(s,t);}).bind(this, this, this.document, "yandexContextAsyncCallbacks")();</script>
+        </div><i class="redir i-bem" data-bem="{&quot;redir&quot;:{&quot;abt&quot;:{&quot;boxes&quot;:&quot;255025,0,94;255497,0,46;298378,0,51;221205,0,61;304477,0,66;307038,0,18;135686,0,69;258984,0,-1;186872,0,-1;299067,0,5;299102,0,71&quot;},&quot;events&quot;:[{&quot;id&quot;:1,&quot;type&quot;:&quot;show&quot;,&quot;path&quot;:&quot;weather_web&quot;}]}}"></i>
+    </div>
+</body>
+</html>
+
